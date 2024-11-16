@@ -5,6 +5,7 @@ i'm a 19yo developer, coding just for fun :3
 🌸languages
 - JavaScript - it's my first language! i'm pretty proficient in it, and i have 10+ years of experience with it, both client-side and in NodeJS ^-^
 - Java - my second most used language, but my favorite (don't tell js ;3) i've used Java to make website backends, Minecraft mods, and custom games utilizing graphics libraries :3
+- C# - a language i've learned recently but picked up fast! i use this for creating Celeste mods, and also have some experience reading C# IL code because of that!
 - Lua - i learned Lua through Roblox hehe, and i'm still not 100% fluent in it; Lua-specific features like metatables still elude me @w@
 - Python - not my favorite, but a great utility language ^w^ i learned Python in the winter of 2023, and have used that knowledge to tutor college CS students!
 - HTML/CSS - not coding languages, but i have 5 years of experience creating webpages and interfaces with them UwU
