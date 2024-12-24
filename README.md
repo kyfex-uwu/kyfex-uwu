@@ -1,6 +1,6 @@
 hi, i'm kyfex!
 
-i'm a 19yo developer, coding just for fun :3
+i'm a 20yo developer, coding just for fun :3
 
 🌸languages
 - JavaScript - it's my first language! i'm pretty proficient in it, and i have 10+ years of experience with it, both client-side and in NodeJS ^-^
