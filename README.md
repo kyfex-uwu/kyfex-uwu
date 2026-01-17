@@ -6,7 +6,7 @@ Hi, I'm Abigail. I'm a 21yo web developer, and on the side I mod video games, cr
 - **Java**: my second most used language, but easily a contender for my favorite. With 5+ years of Java experience, I've used Java mainly to develop my Minecraft mods, and I've used it professionally during my time at PREFcards as well.
 - **C#** - a language I've picked recently, but learned up fast! I use C# almost exclusively for creating Celeste mods. Because of my unique developing experience with C#, I'm fluent in reading C# IL code as well.
 - **Lua** - I've learned Lua through Roblox and Celeste development, and have a combined 2 years of experience with the language. It's not my strongest skill, but I am comfortable navigating all of Lua's unque quirks.
-- **Python* - not my favorite, but a great utility language! I learned Python in the winter of 2023, and have used that knowledge to tutor college CS students and to build a [small video game](https://kyfex-uwu.itch.io/wraparound).
+- **Python** - not my favorite, but a great utility language! I learned Python in the winter of 2023, and have used that knowledge to tutor college CS students and to build a [small video game](https://kyfex-uwu.itch.io/wraparound).
 - **HTML/CSS** - not coding languages, but I have 5+ years of experience creating webpages and user interfaces with HTML and CSS. I'm very familliar with both languages :)
 
 🏔️hobbies
