@@ -10,8 +10,8 @@ Hi, I'm Abigail. I'm a 21yo web developer, and on the side I mod video games, cr
 - **HTML/CSS** - not coding languages, but I have 5+ years of experience creating webpages and user interfaces with HTML and CSS. I'm very familliar with both languages :)
 
 🏔️hobbies
-- I love gaming; my favorite games right now are Celeste, VRChat, and Minecraft! I love puzzle games, platformers, and rhythm games, but I'll give most games a try (except fps games, not my thing)
-- I create music! I love playing piano, singing, and writing EDM. I've been involved in music for 12+ years, it's easily my biggest passion besides coding. You can find me on Spotify, Apple Music, YouTube Music, and Soundcloud under the name KYFEX.
+- I love gaming; my favorite games right now are Celeste, VRChat, and Minecraft! I love puzzle games, platformers, and rhythm games, but I'll give most games a try.
+- I create music! I love playing piano, singing, and writing EDM. I've been involved in music for 12+ years, it's easily my biggest passion besides coding. You can find me on Spotify and YouTube Music under the name KYFEX.
 - I code even when I'm not on the clock :) I write Minecraft mods and maintain [my own website](https://kyfexuwu.com).
 
 ☎️how to contact me
